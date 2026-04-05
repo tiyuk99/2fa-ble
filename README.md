@@ -12,6 +12,7 @@ A proximity-based 2FA system where your phone acts as the authenticator, communi
 
 ## Setup
 
+
 ### Backend
 ```bash
 pip install flask flask-cors bleak cryptography
