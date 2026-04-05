@@ -40,3 +40,4 @@ yarn-error.log*
 # Misc
 .vercel
 *.tsbuildinfo
+mobile-app/ios/.xcode.env.local
