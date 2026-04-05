@@ -1,0 +1,22 @@
+{
+  "github": {
+    "mode": "loose",
+    "distance": 10.0,
+    "publicKey": "public_key_github.pem"
+  },
+  "work": {
+    "mode": "tap",
+    "distance": 2.0,
+    "publicKey": "public_key_work.pem"
+  },
+  "banking": {
+    "mode": "proximity",
+    "distance": 1.0,
+    "publicKey": "public_key_banking.pem"
+  },
+  "Test": {
+    "mode": "proximity",
+    "distance": 0.3,
+    "publicKey": "public_key_Test.pem"
+  }
+}
